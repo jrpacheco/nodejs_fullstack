@@ -1,0 +1,21 @@
+{
+  "name": "node_fullstack",
+  "version": "1.0.0",
+  "description": "Aplicação Node, Express, MongoDB e JADE",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrpacheco/nodejs_fullstack.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "jade"
+  ],
+  "author": "Jr. Pacheco",
+  "license": "ISC"
+}
